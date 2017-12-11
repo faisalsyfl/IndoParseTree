@@ -1,0 +1,62 @@
+1. Daun di atas bantal
+S -> NP PP	Daun di atas bantal
+NP -> NN	Daun
+PP -> IN NP	di atas bantal
+NP -> NN NN	atas bantal
+
+
+2. Saya makan nasi
+S -> SBJ VP
+SBJ -> PRP 
+VP -> VB NP
+NP -> NN
+
+3. Dia cantik
+S -> NP-SBJ ADJP-PRD	Dia cantik
+NP-SBJ -> PRP		Dia
+ADJP-PRD -> JJ		cantik
+
+4. Dan presiden pun tiba di Istana Bogor
+S -> CC NP-SBJ VP	Dan presiden pun tiba di Istana Bogor
+NP-SBJ -> NN RP		presiden pun
+VP -> VB PP		tiba di Istana Bogor
+PP -> IN NP
+NP -> NNP NNP		Istana Bogor
+
+12. Mereka juga membuat situs
+S -> NP-SBJ ADVP VP	Mereka juga membuat situs
+NP-SBJ -> PRP		Mereka
+ADVP -> RB		juga
+VP -> VB NP		membuat situs
+NP -> NN		situs
+
+13. Film ini sebenarnya belum memperoleh izin
+S -> NP-SBJ ADVP VP	Film ini sebenarnya belum memperoleh izin
+NP-SBJ -> NN PR		Film ini
+ADVP -> RB		sebenarnya
+VP -> NEG VB NP		belum memperoleh izin
+NP -> NN		izin
+
+14. mahasiswa baru it
+NP -> NN JJ PR	mahasiswa baru itu
+
+15. kisah aktris muda ini
+NP -> NN NP PR	kisah aktris muda ini
+NP -> NN JJ	aktris muda
+
+15. baju dari katun
+NP -> NP PP	baju dari katun
+NP -> NN	baju
+PP -> IN NP	dari katun
+NP -> NN	katun
+
+16. uang dan dua kartu kredit
+NP -> NP CC NP	uang dan dua kartu kredit
+NP -> NN	uang
+NP -> CD NN	dua kartu kredit
+
+17. sebuah kereta kencana dan sepasang sepatu kaca
+NP -> NP CC NP	sebuah kereta kencana dan sepasang sepatu kaca
+NP -> NND NN NN	sebuah kereta kencana
+NP -> NND NN NN	sepasang sepatu kaca
+

@@ -1,0 +1,26 @@
+ADJP-PRD -> JJ
+ADVP -> RB
+NP -> NN
+NP -> CD NN
+NP -> NN JJ
+NP -> NN JJ PR
+NP -> NN NN
+NP -> NN NP PR
+NP -> NND NN NN
+NP -> NNP NNP
+NP -> NP CC NP
+NP -> NP PP
+NP-SBJ -> NN PR
+NP-SBJ -> NN RP
+NP-SBJ -> PRP
+PP -> IN NP
+S -> CC NP-SBJ VP
+S -> NP PP
+S -> NP-SBJ ADJP-PRD
+S -> NP-SBJ ADVP VP
+S -> SBJ VP
+SBJ -> PRP 
+VP -> NEG VB NP
+VP -> VB NP
+VP -> VB PP
+
